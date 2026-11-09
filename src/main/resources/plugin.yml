@@ -1,0 +1,4 @@
+name: PortalGun
+version: '1.0'
+main: me.RainStxrm.portalGun.PortalGun
+api-version: '1.21'
